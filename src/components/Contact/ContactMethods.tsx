@@ -4,8 +4,8 @@ import {motion} from 'framer-motion';
 import {FaWhatsapp, FaFacebookMessenger} from 'react-icons/fa';
 
 const contactMethods = [
-    {icon: FaWhatsapp, name: 'WhatsApp', color: 'green', link: 'https://wa.me/972523364368'},
-    {icon: FaFacebookMessenger, name: 'Messenger', color: 'blue', link: 'https://m.me/100071311793606'},
+    {icon: FaWhatsapp, name: 'WhatsApp', color: 'green', link: 'https://wa.me/972524144321'},
+    {icon: FaFacebookMessenger, name: 'Messenger', color: 'blue', link: 'https://m.me/100008587188632'},
 ];
 
 export default function ContactMethods() {
